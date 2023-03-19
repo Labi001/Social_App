@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "351720271326",
+    "project_id": "socialapp-b746e",
+    "storage_bucket": "socialapp-b746e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351720271326:android:b7481c577092730975c14f",
+        "android_client_info": {
+          "package_name": "com.labinot.bajrami.social_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351720271326-vrnks5hbppl52p8p88as21f1r4q9094n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.labinot.bajrami.social_app",
+            "certificate_hash": "413a1516e47fe184786eb13d7386151cf7f21f2a"
+          }
+        },
+        {
+          "client_id": "351720271326-n7bct55ca70pfatanm49alc2mm0fhb5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcMeMGT2J9EWBL9cq6oE6Q-M7YPK3m1l4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351720271326-n7bct55ca70pfatanm49alc2mm0fhb5k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
