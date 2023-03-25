@@ -1,5 +1,5 @@
 # Social_App!
-This app is similar with Instagram,that shows the major functionality of Instagram how they are implemented, it is in no way sponsored or endorsed with Instagram, it uses Firebase to simulate most of the features.
+This app is similar with Instagram,that shows the major functionality of Instagram how they are implemented, it is in no way sponsored or endorsed with Instagram, it uses Firebase to simulate most of the features,like GlideEngine ets.
 
 ![Group 1](https://user-images.githubusercontent.com/69488900/227739794-5c422bac-db61-4b6e-b66e-18ba035e14e3.png)
 [2](https://user-images.githubusercontent.com/69488900/227644240-b71f4838-c223-457c-925a-575406c7d8de.png)
