@@ -7,4 +7,4 @@ This app is a clone of Instagram it shows the major functionality of Instagram h
 ![4](https://user-images.githubusercontent.com/69488900/227644316-8da261d7-831d-4576-87db-05492be9b0da.png)
 ![5](https://user-images.githubusercontent.com/69488900/227728182-dd52dcbe-2f22-4975-8bd6-726b3a3d1181.png)
 
-![ScreenshotMire](https://user-images.githubusercontent.com/69488900/227736891-9d9acdac-3c2f-4252-895c-1627d8e89e10.png)
+
